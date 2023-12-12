@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "629365551846",
+    "project_id": "gestor-de-peliculas",
+    "storage_bucket": "gestor-de-peliculas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629365551846:android:8d502051e56efe4c78c127",
+        "android_client_info": {
+          "package_name": "com.example.gestordepeliculas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629365551846-h69ft7km81n904iqqmdeatakq752s89r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gestordepeliculas",
+            "certificate_hash": "a0841158dad33ef5ecbd59983183491dee19a962"
+          }
+        },
+        {
+          "client_id": "629365551846-c5l6pea6qol6gvf9giq0ec74bcpse9e2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiNvB1ecFFDFN3VlnW_WgJjugjQJkH6IU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629365551846-6vsuamhhqn759p369r1cod00ouejhuol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
